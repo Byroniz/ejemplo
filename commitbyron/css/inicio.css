@@ -1,0 +1,23 @@
+.titulo{
+    position: absolute;
+    width: 600px;
+    height: 174px;
+    left: 100vh;
+    top: 100vh;
+    
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 72px;
+    line-height: 84px;
+    text-align: center;
+    
+    color: #E5E5E5;
+}
+
+.hero-image{
+    height: 125vh;
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(./img/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
